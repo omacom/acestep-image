@@ -1,3 +1,5 @@
+> **Archived.** This image is now built from [`images/acestep`](https://github.com/omacom/omarchy-local-ai/tree/master/images/acestep) in [omacom/omarchy-local-ai](https://github.com/omacom/omarchy-local-ai) and published as `ghcr.io/omacom/omarchy-local-ai/…`. Images already published from here stay available.
+
 # acestep-image
 
 The container image [omarchy-local-ai](https://github.com/omacom/omarchy-local-ai) runs music models in: [acestep.cpp](https://github.com/ServeurpersoCom/acestep.cpp)'s `ace-server`, built with Vulkan for AMD GPUs, published as `ghcr.io/omacom/acestep`.
